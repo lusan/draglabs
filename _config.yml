@@ -10,7 +10,7 @@ title: Drag Labs
 email: daslusan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is drag's domain. This blog will contain the innovations beyond your dreams.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/draglabs" # the subpath of your site, e.g. /blog
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: daslusan
 github_username:  lusan
